@@ -10,7 +10,7 @@ The repository includes:
 
 - **TrackAndCalibrateTrajectories.ipynb:** This Jupyter notebook automates the process of identifying the positions of Physalia models in the images and calibrating their trajectories to determine their true angle and speed. It utilizes the calibration matrix generated in the previous step.
 
-- **PlotAnalysis.ipynb:** This notebook is dedicated to generating the three main plots presented in the paper.
+- **PlotAnalysis.ipynb:** This notebook is dedicated to generating the three main plots analysing lab-results data presented in the paper.
 
 ## How to Use
 
