@@ -1,6 +1,6 @@
 # PhysaliaDriftLabExperiments
 
-This repository contains code supporting the publication titled "Ocean wanderers: lab-based investigation of the wind and morphology's control over \textit{Physalia physalis}' journey" by Natacha Bourg, Amandine Schaeffer, Anne Molcard, Christopher Luneau, Daniel E. Hewitt, Rémi Chemin.
+This repository contains code supporting the publication titled "Ocean wanderers: lab-based investigation of the wind and morphology's control over Physalia physalis' journey" by Natacha Bourg, Amandine Schaeffer, Anne Molcard, Christopher Luneau, Daniel E. Hewitt, Rémi Chemin.
 
 ## Overview
 
